@@ -46,37 +46,36 @@ User Can...
 
 ### 2. Screen Archetypes
 
-* Discover Page
--Recycler View showing new games from RAWG API
--Clicking the game will present more information on the game (also from RAWG API)
-* Wishlist Page
--Recycler View of games added through the discover page
-* Saved Games Page
+-Discover Page
+  -Recycler View showing new games from RAWG API
+  -Clicking the game will present more information on the game (also from RAWG API)
+-Wishlist Page
+  -Recycler View of games added through the discover page
+  -Saved Games Page
 -Recycler View of previously played games.
--Can add games manually, from discovery or from the wishlist
--Can click a game to see more info
--Can add notes to each game
--Can add reviews for each game.
+  -Can add games manually, from discovery or from the wishlist
+  -Can click a game to see more info
+  -Can add notes to each game
+  -Can add reviews for each game.
 
 
 ### 3. Navigation
 
 **Tab Navigation** (Tab to Screen)
 
-* [Discovery Page]
-* [Wishlist Page]
-* [Saved Games]
+* Discovery Page
+* Wishlist Page
+* Saved Games
 
 **Flow Navigation** (Screen to Screen)
 
-- [Discovery Page]
-  - [Specific Game Details]
+- Discovery Page
+  - Specific Game Details
  
-- [Wishlist Page]
-  - [Specific Game Details]
+- Wishlist Page
 
-- [Saved Games Page]
-  - [Specific Game Details]
+- Saved Games Page
+  - Specific Game Details
  
 
 ## Wireframes
