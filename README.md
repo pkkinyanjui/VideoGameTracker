@@ -63,20 +63,21 @@ User Can...
 
 **Tab Navigation** (Tab to Screen)
 
-* [Discovery Page]
-* [Wishlist Page]
-* [Saved Games]
+* Discovery Page
+* Wishlist Page
+* Saved Games
 
 **Flow Navigation** (Screen to Screen)
 
-- [Discovery Page]
-  - [Specific Game Details]
+- Discovery Page
+  - Specific Game Details
  
-- [Wishlist Page]
-  - [Specific Game Details]
+- Wishlist Page
 
-- [Saved Games Page]
-  - [Specific Game Details]
+- Saved Games Page
+  - Specific Game Details
+  - Notes
+  - Review
  
 
 ## Wireframes
