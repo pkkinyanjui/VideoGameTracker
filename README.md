@@ -16,12 +16,12 @@ Our App can be generalized as a tracker for people's video game journey. It has 
 
 [Evaluation of your app across the following attributes]
 
-- **Category:**
-- **Mobile:**
-- **Story:**
-- **Market:**
-- **Habit:**
-- **Scope:**
+- **Category: Entertainment **
+- **Mobile: Mobile platform helps users easily intake and post content such as photos**
+- **Story: By tracking games, users can build a community with each other and see what people think about certain games through reviews and other statistics**
+- **Market: The app targets those who play videos games and perhaps those who want to start playing video games.**
+- **Habit: Players could build a habitual relationship with the app as they view the app whenever they play their games. In addition they can also return repeatedly to interact with other users.**
+- **Scope: The application is clear in design but can involve many new features. Having all the features as intented can still be challenging as all three tabs must interact with each other seamlessly**
 
 ## Product Spec
 
